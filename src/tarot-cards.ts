@@ -112,6 +112,7 @@ export const cardNames = {
   "4c": "Four of Cups",
   "4m": "The Emperor",
   "4s": "Four of Swords",
+  
   "4w": "Four of Wands",
   "5c": "Five of Cups",
   "5m": "The Hierophant",
